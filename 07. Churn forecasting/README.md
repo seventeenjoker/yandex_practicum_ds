@@ -35,3 +35,7 @@
 - EstimatedSalary — предполагаемая зарплата
   Целевой признак
 - Exited — факт ухода клиента
+
+Стек проекта
+========================
+python, pandas, matplotlib, scikit-learn
